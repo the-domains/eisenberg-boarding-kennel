@@ -1,0 +1,28 @@
+name: Eisenberg Boarding Kennel
+favicon: null
+layout_spectrum: 0.6057155991438776
+typography_spectrum: 0.2464838745072484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11486673122271895
+  lightness: 0.8657048824243248
+  saturation: 0.4608471596147865
+  rhythmicContrast: 0.29059984046034515
+purpose: []
