@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eisenberg Boarding Kennel]]></title>
         <description><![CDATA[Eisenberg Boarding Kennel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eisenberg-boarding-kennel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 21:17:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 01:05:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eisenberg-boarding-kennel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/318846b1-4fa7-48f2-9781-3ff80511e208.jpg">]]></description>
-            <link>undefinedwelcome-to-eisenberg-boarding-kennel/index.html</link>
+            <link>https://thegrid.ai/eisenberg-boarding-kennel/welcome-to-eisenberg-boarding-kennel/index.html</link>
             <guid isPermaLink="false">df57adfc-81cf-4952-a293-2c16420d5af2</guid>
-            <pubDate>Sun, 22 May 2016 21:17:02 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 01:04:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
