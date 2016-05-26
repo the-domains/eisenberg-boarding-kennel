@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Eisenberg Boarding Kennel
-datePublished: '2016-05-24T01:04:57.286Z'
-dateModified: '2016-05-23T04:36:21.284Z'
+datePublished: '2016-05-26T03:15:47.795Z'
+dateModified: '2016-05-26T03:15:47.168Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-welcome-to-eisenberg-boarding-kennel.md
@@ -49,5 +49,6 @@ Eisenberg Boarding Kennel has been green before there was a green movement, we h
 Contact us today to schedule services or for more info. Ask about our multi-pet and extended stay discounts.
 
 We are fully insured and owner lives on premises so your pets are never alone!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdbba88b-0e50-428e-90be-d4a44025b25e.jpg)
 
 [0]: null
