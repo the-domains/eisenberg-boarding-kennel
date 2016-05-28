@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Eisenberg Boarding Kennel
-datePublished: '2016-05-26T21:51:59.341Z'
-dateModified: '2016-05-26T21:51:50.006Z'
+datePublished: '2016-05-28T19:26:50.443Z'
+dateModified: '2016-05-26T21:52:03.306Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-welcome-to-eisenberg-boarding-kennel.md
@@ -29,9 +29,10 @@ Don't be, we can offer you individual, germ isolating boarding to protect your p
 
 If you're like us, your pets have become family members. When you can't be home for them, whether because of work, vacation or other obligations, you want them taken care of with the same love and attention you give them. That's exactly what we do at Eisenberg Boarding Kennel. Because we love pets!
 
-If you are interested in watching your dog or cat or other loved one on the web while on vacation, if you need fancy decor and in a high end strip mall location, we are not the kennel for you. We are two dog professionals with over 60 years combine pet care experience, we are an on residence kennel with 24 hour monitoring and your pets are never left alone. We have 24 hour emergency veterinarian access and we take care of your pets as if they were our own. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/318846b1-4fa7-48f2-9781-3ff80511e208.jpg)
+If you are interested in watching your dog or cat or other loved one on the web while on vacation, if you need fancy decor and in a high end strip mall location, we are not the kennel for you. We are two dog professionals with over 60 years combine pet care experience, we are an on residence kennel with 24 hour monitoring and your pets are never left alone. We have 24 hour emergency veterinarian access and we take care of your pets as if they were our own. 
 
 We are not only a boarding and AKC kennel, but we also are dog rescue specialists who have saved over 6800 dogs to date and assisted many other rescues over the years. Please feel to contact us about your special someone who might want to visit us and we hope to get to know you and your pet at Eisenberg Boarding Kennel.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/318846b1-4fa7-48f2-9781-3ff80511e208.jpg)
 
 Pet services include:
 
